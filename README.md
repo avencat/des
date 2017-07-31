@@ -1,5 +1,7 @@
-# Dès
+# Dès (Tester uniquement sur macOS)
 ## Lancer de dès aléatoire
+
+Un projet créé lors d'un week-end car nous avions oublié nos dès et ne pouvions pas jouer à notre jeu de société. Programme fonctionnant dans le terminal et créé sous macOS Sierra.
 
 ### Cloner le projet
 ```sh
@@ -25,4 +27,35 @@ make fclean
 ### Lancer les dès
 ```sh
 ./des
+```
+
+### Exemple de sortie
+```sh
+-----------------------
+|                     |
+|                     |
+|                     |
+|                     |
+|                     |
+|         4           |
+|                     |
+|                     |
+|                     |
+|                     |
+|                     |
+-----------------------
+				Total : 6
+-----------------------
+|                     |
+|                     |
+|                     |
+|                     |
+|                     |
+|         2           |
+|                     |
+|                     |
+|                     |
+|                     |
+|                     |
+-----------------------
 ```
