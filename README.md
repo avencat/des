@@ -1,4 +1,4 @@
-# Dès (Tester uniquement sur macOS)
+# Dès (Testé uniquement sur macOS)
 ## Lancer de dès aléatoire
 
 Un projet créé lors d'un week-end car nous avions oublié nos dès et ne pouvions pas jouer à notre jeu de société. Programme fonctionnant dans le terminal et créé sous macOS Sierra.
@@ -30,7 +30,7 @@ make fclean
 ```
 
 ### Exemple de sortie
-```sh
+```
 -----------------------
 |                     |
 |                     |
